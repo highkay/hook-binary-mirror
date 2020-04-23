@@ -1,6 +1,6 @@
 {
-    "name": "hook-binary-mirror",
-    "version": "1.0.1",
+    "name": "hook-binary-mirror-2",
+    "version": "1.0.2",
     "description": "处理github上不翻墙不能下载的模块",
     "main": "lib/main.js",
     "bin": {
@@ -13,6 +13,6 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/zhrln/hook-binary-mirror.git"
+        "url": "https://github.com/highkay/hook-binary-mirror.git"
     }
 }
